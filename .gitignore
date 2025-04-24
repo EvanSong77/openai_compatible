@@ -1,0 +1,8 @@
+cache_dir
+.env
+.venv
+__pycache__
+*cache
+outputs
+.idea/
+log
